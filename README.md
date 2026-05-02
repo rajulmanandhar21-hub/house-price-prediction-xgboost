@@ -13,3 +13,5 @@ This project uses the Ames Housing Dataset to predict house prices. I implemente
 ## 📈 Results
 * **R-Squared**: 0.86
 * **Log-RMSE**: 0.13737
+
+<img width="1918" height="884" alt="image" src="https://github.com/user-attachments/assets/05cbe752-2880-4f5a-bc01-14d4b42b06ba" />
